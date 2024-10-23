@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 24px;
+  cursor: grab;
+}
+
+.dragging {
+  opacity: 0.5;
+}
+
+.hover {
+  border: 2px solid #00c70a;
+}

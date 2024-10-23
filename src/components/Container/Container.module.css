@@ -1,0 +1,14 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5%;
+  padding: 2%;
+  flex: 1;
+  border-radius: 10px;
+  background-color: black;
+  border: 2px solid rgb(255, 255, 255);
+}
+
+.hover {
+  border: 2px solid #00c70a;
+}
